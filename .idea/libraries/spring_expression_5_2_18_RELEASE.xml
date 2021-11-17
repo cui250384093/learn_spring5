@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="spring-expression-5.2.18.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/demo/lib/spring-expression-5.2.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo/lib/spring-core-5.2.18.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/spring-core-5.2.18.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/spring-core-5.2.18.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/spring-expression-5.2.18.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="spring-context-5.2.18.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/demo/lib/spring-context-5.2.18.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/spring-context-5.2.18.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/spring-context-5.2.18.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
